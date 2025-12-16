@@ -1,4 +1,4 @@
-# RNN Stock Forecast (Submission Zip)
+# RNN Stock Forecast 
 
 A lightweight **FastAPI + Dash** app that trains a **SimpleRNN** model on historical stock closing prices and forecasts the **next-day close**.
 
@@ -39,5 +39,4 @@ Open:
 - Data is downloaded via `yfinance` at runtime (so an internet connection is required).
 - This is a learning project and **not financial advice**.
 
-## Credits
-See `CREDITS.md` for upstream inspiration references.
+
